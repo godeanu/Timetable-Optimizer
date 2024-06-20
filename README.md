@@ -19,4 +19,4 @@ We must make sure that the entire number of students for each subjects will have
 
 The code should be run like this:
 python3 orar.py {input_file_name} {algorithm} , where algorithm can either be hc ( for hill-climbing), or mcts (for monte-carlo tree search)
-example: python3 orar.py dummy hc
+example: python3 optimizer.py dummy hc
