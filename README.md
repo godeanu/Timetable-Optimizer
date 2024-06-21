@@ -18,5 +18,5 @@ There are obviously some hard constraints as well, which must be respected at al
 We must make sure that the entire number of students for each subjects will have a seat that day. We must respect the room maximum capacity and the subjects that can be taught in it.
 
 The code should be run like this:
-'python3 optimizer.py {input_file_name} {algorithm}' , where algorithm can either be hc ( for hill-climbing), or mcts (for monte-carlo tree search)
-example: 'python3 optimizer.py dummy hc'
+***python3 optimizer.py {input_file_name} {algorithm}*** , where algorithm can either be hc ( for hill-climbing), or mcts (for monte-carlo tree search)
+example: ***python3 optimizer.py dummy hc***

@@ -310,7 +310,7 @@ if __name__ == '__main__':
     if algorithm == 'hc' or algorithm == 'mcts':
         pass
     else:
-        print('The algorythm should only be mcts or hc')
+        print('The algorithm should only be mcts or hc')
         sys.exit(0)
     yaml_dict = read_yaml_file(f'inputs/{file}.yaml')
     
