@@ -1,5 +1,5 @@
 # Timetable-Optimizer
-Using Hill-Climbing or Monte-Carlo Tree Search to generate university timetables, accommodating different constraints and preferences
+Used Hill-Climbing or Monte-Carlo Tree Search to generate university timetables, accommodating different constraints and preferences
 
 # How it works
 The code reads multiple soft constraints from an input yaml file.
